@@ -20,7 +20,7 @@
   </a>
 
   <a href="https://youtu.be/1mBuNrYoP-Y" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/🎮%20Demonstration-000?style=for-the-badge&logo=youtube&logoColor=red" 
+    <img src="https://img.shields.io/badge/🎮%20Demo-000?style=for-the-badge&logo=youtube&logoColor=red" 
          alt="Demonstration Video" height="60">
   </a>
 </p>
