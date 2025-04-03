@@ -71,3 +71,13 @@ Powered by **ML5.js FaceMesh**, the game tracks facial landmarks in real time:
 5. **Explore & Experiment** – Interact with asteroids and adjust your viewpoint.  
 
 ---
+## 📜 Citations  
+
+This project incorporates assets and libraries from the following sources:  
+
+🔹 **Face Tracking (ML5.js FaceMesh)**  
+- [ML5.js FaceMesh Documentation](https://docs.ml5js.org/#/reference/facemesh)  
+- [ML5 Face Tracking Example](https://editor.p5js.org/ml5/sketches/lCurUW1TT)  
+
+🔹 **3D Spaceship Model**  
+- [Spaceship STL Model](https://www.thingiverse.com/thing:18704) – Sourced from Thingiverse  
