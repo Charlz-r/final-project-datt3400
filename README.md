@@ -9,14 +9,19 @@
 ## 🔗 Project Links  
 
 <p align="center">
-  <a href="https://editor.p5js.org/c_reed/sketches/mDrgIoSPPv">
-    <img src="https://img.shields.io/badge/▶%20Play%20in%20P5.js-000?style=for-the-badge&logo=p5.js&logoColor=red" alt="Play in P5.js">
+  <a href="https://editor.p5js.org/c_reed/sketches/mDrgIoSPPv" target="_blank" style="margin: 20px;">
+    <img src="https://img.shields.io/badge/▶%20Play%20in%20P5.js-000?style=for-the-badge&logo=p5.js&logoColor=red" 
+         alt="Play in P5.js" height="60">
   </a>
-  <a href="https://youtu.be/hoGkSQsesn0">
-    <img src="https://img.shields.io/badge/📜%20Project%20Description-000?style=for-the-badge&logo=youtube&logoColor=red" alt="Project Description Video">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/hoGkSQsesn0" target="_blank" style="margin: 20px;">
+    <img src="https://img.shields.io/badge/📜%20Project%20Description-000?style=for-the-badge&logo=youtube&logoColor=red" 
+         alt="Project Description Video" height="60">
   </a>
-  <a href="https://youtu.be/1mBuNrYoP-Y">
-    <img src="https://img.shields.io/badge/🎮%20Project%20Demo-000?style=for-the-badge&logo=youtube&logoColor=red" alt="Project Demonstration Video">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://youtu.be/1mBuNrYoP-Y" target="_blank" style="margin: 20px;">
+    <img src="https://img.shields.io/badge/🎮%20Project%20Demo-000?style=for-the-badge&logo=youtube&logoColor=red" 
+         alt="Project Demonstration Video" height="60">
   </a>
 </p>
 ---
