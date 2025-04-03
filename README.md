@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://editor.p5js.org/c_reed/sketches/mDrgIoSPPv" target="_blank" style="margin: 10px;">
-    <img src="https://img.shields.io/badge/▶%20Source%20Code-000?style=for-the-badge&logo=p5.js&logoColor=red" 
+    <img src="https://img.shields.io/badge/:gear:%20Source%20Code-000?style=for-the-badge&logo=p5.js&logoColor=red" 
          alt="Source Code" height="60">
   </a>
   
