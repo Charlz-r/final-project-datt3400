@@ -3,7 +3,7 @@
 ## 🔗 Project Links  
 🔹 [**Play in P5.js Web Editor**](https://editor.p5js.org/c_reed/sketches/mDrgIoSPPv)  
 🔹 [**Project Description Video**](https://youtu.be/hoGkSQsesn0)  
-🔹 [**Project Demonstration Video**](https://youtu.be/1mBuNrYoP-Y)  
+🔹 [**Project Demonstration Vide**](https://youtu.be/1mBuNrYoP-Y)  
 
 ---
 ## 🔗 Project Links  
