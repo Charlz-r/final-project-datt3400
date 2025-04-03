@@ -6,6 +6,20 @@
 🔹 [**Project Demonstration Video**](https://youtu.be/1mBuNrYoP-Y)  
 
 ---
+## 🔗 Project Links  
+
+<p align="center">
+  <a href="https://editor.p5js.org/c_reed/sketches/mDrgIoSPPv">
+    <img src="https://img.shields.io/badge/▶%20Play%20in%20P5.js-000?style=for-the-badge&logo=p5.js&logoColor=red" alt="Play in P5.js">
+  </a>
+  <a href="https://youtu.be/hoGkSQsesn0">
+    <img src="https://img.shields.io/badge/📜%20Project%20Description-000?style=for-the-badge&logo=youtube&logoColor=red" alt="Project Description Video">
+  </a>
+  <a href="https://youtu.be/1mBuNrYoP-Y">
+    <img src="https://img.shields.io/badge/🎮%20Project%20Demo-000?style=for-the-badge&logo=youtube&logoColor=red" alt="Project Demonstration Video">
+  </a>
+</p>
+---
 
 ## 🛰 Overview  
 The **Space Fight Simulator** is an interactive 3D experience where players pilot a spaceship using **head-tracking controls**. Instead of traditional inputs, the game leverages **ML5.js FaceMesh** to detect facial movements, allowing players to steer and boost their ship naturally.  
