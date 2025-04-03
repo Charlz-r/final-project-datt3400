@@ -16,12 +16,12 @@
   
   <a href="https://youtu.be/hoGkSQsesn0" target="_blank" style="margin: 20px;">
     <img src="https://img.shields.io/badge/📜%20Project%20Description-000?style=for-the-badge&logo=youtube&logoColor=red" 
-         alt="Project Description Video" height="60">
+         alt="Description Video" height="60">
   </a>
 
   <a href="https://youtu.be/1mBuNrYoP-Y" target="_blank" style="margin: 20px;">
     <img src="https://img.shields.io/badge/🎮%20Project%20Demo-000?style=for-the-badge&logo=youtube&logoColor=red" 
-         alt="Project Demo" height="60">
+         alt="Demo" height="60">
   </a>
 </p>
 ---
