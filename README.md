@@ -3,7 +3,7 @@
 ## 🔗 Project Links  
 🔹 [**Play in P5.js Web Editor**](https://editor.p5js.org/c_reed/sketches/mDrgIoSPPv)  
 🔹 [**Project Description Video**](https://youtu.be/hoGkSQsesn0)  
-🔹 [**Project Demonstration Vide**](https://youtu.be/1mBuNrYoP-Y)  
+🔹 [**Project Demonstration Video**](https://youtu.be/1mBuNrYoP-Y)  
 
 ---
 ## 🔗 Project Links  
@@ -15,13 +15,13 @@
   </a>
   
   <a href="https://youtu.be/hoGkSQsesn0" target="_blank" style="margin: 20px;">
-    <img src="https://img.shields.io/badge/📜%20Project%20Description-000?style=for-the-badge&logo=youtube&logoColor=red" 
+    <img src="https://img.shields.io/badge/📜%20Description-000?style=for-the-badge&logo=youtube&logoColor=red" 
          alt="Description Video" height="60">
   </a>
 
   <a href="https://youtu.be/1mBuNrYoP-Y" target="_blank" style="margin: 20px;">
-    <img src="https://img.shields.io/badge/🎮%20Project%20Demo-000?style=for-the-badge&logo=youtube&logoColor=red" 
-         alt="Demo" height="60">
+    <img src="https://img.shields.io/badge/🎮%20Demonstration-000?style=for-the-badge&logo=youtube&logoColor=red" 
+         alt="Demonstration Video" height="60">
   </a>
 </p>
 ---
